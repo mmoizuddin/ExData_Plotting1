@@ -20,11 +20,8 @@ The dataset has 9 variables
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
 
-## Loading the data
-
 
 ## Making Plots
-
 
 
 * Plot dimentions are 480x480 pixels.
