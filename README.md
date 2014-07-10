@@ -5,8 +5,10 @@ one household with a one-minute sampling rate over a period of almost
 4 years. Different electrical quantities and some sub-metering values
 are available.
 
-* <b>Dataset source</b>
+* <b>Dataset source</b>:
+
 <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
+
 The dataset has 9 variables 
 <ol>
 <li><b>Date</b>: Date in format dd/mm/yyyy </li>
@@ -31,9 +33,9 @@ The dataset has 9 variables
 
 * 4 seperate R script files are created 
 plot1.R creates plot1.png
-plot2.R creates plot1.png
-plot3.R creates plot1.png
-plot4.R creates plot1.png
+plot2.R creates plot2.png
+plot3.R creates plot3.png
+plot4.R creates plot4.png
 
 Each file is create with the view to fully reproduce the plot.
 
