@@ -46,22 +46,22 @@ The four plots that created are below:
 ### Plot 1
 
 
-![plot 1](plot/plot1.png) 
+![plot 1](plots/plot1.png) 
 
 
 ### Plot 2
 
-![plot 2](plot/plot2.png) 
+![plot 2](plots/plot2.png) 
 
 
 ### Plot 3
 
-![plot 3](plot/plot3.png) 
+![plot 3](plots/plot3.png) 
 
 
 ### Plot 4
 
-![plot 4](plot/plot4.png) 
+![plot 4](plots/plot4.png) 
 
 
 
