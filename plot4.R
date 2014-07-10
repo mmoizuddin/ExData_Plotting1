@@ -23,6 +23,7 @@
 #set dir
         dir.create("Electric_power_consumption")
         setwd(paste0(getwd(),"/Electric_power_consumption/"))
+        dir.create("plots")
 ##
 
 # Download Dataset
@@ -37,7 +38,7 @@
       subsetDf <- subset(dataDf,Date == "2007-02-01" | Date =="2007-02-02" )
       subsetDf$Datetime <- strptime(paste(subsetDf$Date,subsetDf$Time), "%Y-%m-%d %H:%M:%S")
 ##
-      png("plot4.png",width = 480, height = 480)
+      png("plots/plot4.png",width = 480, height = 480)
       par(mfrow = c(2, 2))
       with(subsetDf, plot(Datetime,Global_active_power, type="l", xlab="", ylab = "Global Active Power (kilowatt)"))
       with(subsetDf, plot(Datetime,Voltage, type="l", xlab="datetime", ylab = "Voltage"))
