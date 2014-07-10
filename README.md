@@ -6,7 +6,7 @@ one household with a one-minute sampling rate over a period of almost
 are available.
 
 
-The dataset has 9 variables from <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
+The dataset has 9 variables from <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
 <ol>
 <li><b>Date</b>: Date in format dd/mm/yyyy </li>
