@@ -1,4 +1,3 @@
-@@ -1,114 +1,4 @@
 ## Introduction
 This assignment uses data from the UC Irvine Machine Learning Repository
 * <b>Description</b>: Measurements of electric power consumption in
