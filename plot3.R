@@ -38,7 +38,7 @@
       subsetDf <- subset(dataDf,Date == "2007-02-01" | Date =="2007-02-02" )
       subsetDf$Datetime <- strptime(paste(subsetDf$Date,subsetDf$Time), "%Y-%m-%d %H:%M:%S")
 ##
-      png(plots/plot3.png",width = 480, height = 480)
+      png("plots/plot3.png",width = 480, height = 480)
       with(subsetDf, plot(Datetime,Sub_metering_1, type="l", xlab="", ylab = "Energy sub metering"))
       with(subsetDf,points(Datetime, Sub_metering_2, type = "l", xlab = "", ylab = "Energy sub metering", col = "red"))
       with(subsetDf,points(Datetime, Sub_metering_3, type = "l", xlab = "", ylab = "Energy sub metering", col = "blue"))
