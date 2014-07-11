@@ -42,14 +42,16 @@ Plots are based on data from the dates 2007-02-01 and 2007-02-02
 
 * 4 seperate R script files are created 
 
-plot1.R creates plot1.png
+    plot1.R creates plot1.png
 
-plot2.R creates plot2.png
+    plot2.R creates plot2.png
 
-plot3.R creates plot3.png
+    plot3.R creates plot3.png
 
-plot4.R creates plot4.png
+    plot4.R creates plot4.png
 
+
+## The Plots
 The four plots that created are below: 
 
 
