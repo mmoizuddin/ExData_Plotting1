@@ -20,8 +20,20 @@ The dataset has 9 variables
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
 
+* <b>Criteria</b> Plots are based on data from the dates 2007-02-01 and 2007-02-02
 
-## Making Plots
+## Working
+<lo>
+<li> Each script can reporduce plots from scratch </b>
+<li> Data is downloaded and unzipped in directory "Electric_power_consumption" </li>
+<li> Plots are created in directory "Plots" </li><li> Date variable in dataset converted into Date class </li>
+<li> New variable Datetime added in dataset using strptime() functions </li>
+<li> A subset of data is created based on Date from dates 2007-02-01 and 2007-02-02 </li>
+<li> Plots are created based on subset of data </b>
+
+</ol>
+
+# Making Plots
 
 
 * Plot dimentions are 480x480 pixels.
