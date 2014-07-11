@@ -23,8 +23,8 @@ The dataset has 9 variables
 * <b>Criteria</b> Plots are based on data from the dates 2007-02-01 and 2007-02-02
 
 ## Working
-<lo>
-<li> Each script can reporduce plots from scratch </b>
+<ol>
+<li> Each script can reproduce plots from scratch </b>
 <li> Data is downloaded and unzipped in directory "Electric_power_consumption" </li>
 <li> Plots are created in directory "Plots" </li>
 <li> Date variable in dataset converted into Date class </li>
@@ -40,13 +40,11 @@ The dataset has 9 variables
 * Plot dimentions are 480x480 pixels.
 
 * 4 seperate R script files are created 
+
 plot1.R creates plot1.png
 plot2.R creates plot2.png
 plot3.R creates plot3.png
 plot4.R creates plot4.png
-
-Each file is create with the view to fully reproduce the plot.
-
 
 The four plots that created are below: 
 
