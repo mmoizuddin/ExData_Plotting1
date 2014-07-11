@@ -20,7 +20,8 @@ The dataset has 9 variables
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
 
-* <b>Criteria</b> Plots are based on data from the dates 2007-02-01 and 2007-02-02
+## Criteria
+Plots are based on data from the dates 2007-02-01 and 2007-02-02
 
 ## Working
 <ol>
@@ -42,8 +43,11 @@ The dataset has 9 variables
 * 4 seperate R script files are created 
 
 plot1.R creates plot1.png
+
 plot2.R creates plot2.png
+
 plot3.R creates plot3.png
+
 plot4.R creates plot4.png
 
 The four plots that created are below: 
