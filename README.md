@@ -26,11 +26,12 @@ The dataset has 9 variables
 <lo>
 <li> Each script can reporduce plots from scratch </b>
 <li> Data is downloaded and unzipped in directory "Electric_power_consumption" </li>
-<li> Plots are created in directory "Plots" </li><li> Date variable in dataset converted into Date class </li>
+<li> Plots are created in directory "Plots" </li>
+<li> Date variable in dataset converted into Date class </li>
 <li> New variable Datetime added in dataset using strptime() functions </li>
 <li> A subset of data is created based on Date from dates 2007-02-01 and 2007-02-02 </li>
 <li> Plots are created based on subset of data </b>
-
+<li> Plots are directly send to PNG calling png() </li>
 </ol>
 
 # Making Plots
